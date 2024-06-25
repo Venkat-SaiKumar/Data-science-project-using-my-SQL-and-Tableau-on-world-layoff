@@ -1,1 +1,2 @@
 # Data-science-project-using-my-SQL-and-Tableau-on-world-layoff
+This project is based on companies that laid off their employees during the recession worldwide. The project involves processing raw data by filtering it using MySQL (removing duplicates, null values, and dropping unwanted columns/rows). Additionally, an interactive dashboard has been created on Tableau. This dashboard allows us to identify the top 10 countries where layoffs occurred. It also enables filtering by industry and country.
